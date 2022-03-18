@@ -1,4 +1,4 @@
-# Introduction-computer-Lesson-1
+# Introduction-Computer-Lesson-1
 中正大學-電機系-110計算機概論課程
 2021/9 ~ 2022/1
 
